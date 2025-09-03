@@ -1,16 +1,20 @@
 # pokemon
 
-A new Flutter project.
+# Flutter Web on Edge
 
-## Getting Started
+ตัวอย่างโปรเจกต์ Flutter สำหรับรันบน **Microsoft Edge**
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ข้อกำหนดเบื้องต้น
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Flutter SDK**  
+   ดาวน์โหลดและติดตั้ง: [https://docs.flutter.dev/get-started/install](https://docs.flutter.dev/get-started/install)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. **เปิดใช้งาน Flutter Web**
+```bash
+flutter config --enable-web
+3. **วิะีการรัน
+ flutter run -d edge
+flutter run -d chrome
+
