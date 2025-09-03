@@ -10,11 +10,12 @@
 
 1. **Flutter SDK**  
    ดาวน์โหลดและติดตั้ง: [https://docs.flutter.dev/get-started/install](https://docs.flutter.dev/get-started/install)
+2. ** วิธัการรัน
+ flutter run -d edge
+flutter run -d chrome**
 
-2. **เปิดใช้งาน Flutter Web**
+3. **เปิดใช้งาน Flutter Web**
 ```bash
 flutter config --enable-web
-3. **วิะีการรัน
- flutter run -d edge
-flutter run -d chrome
+
 
