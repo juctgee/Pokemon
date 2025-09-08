@@ -20,9 +20,7 @@ By Phatchara Yuankhan - 65114540406
    git clone https://github.com/juctgee/Pokemon.git
  ```bash
    cd Pokemon
- ```bash
    flutter pub get
- ```bash
    flutter run -d chrome
 
 
