@@ -18,7 +18,10 @@ By Phatchara Yuankhan - 65114540406
 1. Clone this repository  
    ```bash
    git clone https://github.com/juctgee/Pokemon.git
+ ```bash
    cd Pokemon
+
+
    flutter pub get
    flutter run -d chrome
 
