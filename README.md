@@ -1,21 +1,25 @@
-# pokemon
+# Homework for Week 09-10: Team Builder App
 
-# Flutter Web on Edge
+By Phatchara Yuankhan - 65114540406
 
-ตัวอย่างโปรเจกต์ Flutter สำหรับรันบน **Microsoft Edge**
+## Feature
+- Using GetStorage for persistent state management.
+- Using GetX for fetching data from PokeAPI.
+- Managing Team State with GetX.
+- Team Creation and Member Deletion where user can select upmost 3 members to start a team from total of 40 players with no duplicate allowed.
+- Team Validation --> Select/Deselect with check icon for smoother user experience.
+- Team Preview Page with *edit team name function*.
+- **Reset Button** for quick clearing selection.
 
 ---
 
-## ข้อกำหนดเบื้องต้น
+## How to Run
 
-1. **Flutter SDK**  
-   ดาวน์โหลดและติดตั้ง: [https://docs.flutter.dev/get-started/install](https://docs.flutter.dev/get-started/install)
-2. ** วิธัการรัน
- flutter run -d edge
-flutter run -d chrome**
-
-3. **เปิดใช้งาน Flutter Web**
-```bash
-flutter config --enable-web
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/juctgee/Pokemon.git
+   cd Pokemon
+   flutter pub get
+   flutter run -d chrome
 
 
